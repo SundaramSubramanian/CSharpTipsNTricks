@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTipsNTricks", "CSharpTipsNTricks\CSharpTipsNTricks.csproj", "{4FD8F5DD-8BA6-4763-B280-1BF86701F113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FD8F5DD-8BA6-4763-B280-1BF86701F113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD8F5DD-8BA6-4763-B280-1BF86701F113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD8F5DD-8BA6-4763-B280-1BF86701F113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD8F5DD-8BA6-4763-B280-1BF86701F113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF030DAA-2BE8-4D13-B170-185497D51ED0}
+	EndGlobalSection
+EndGlobal
